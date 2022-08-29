@@ -1,0 +1,4 @@
+include ':installedPackage'
+include ':aidlLibrary'
+include ':app'
+rootProject.name = "launcherApp"
